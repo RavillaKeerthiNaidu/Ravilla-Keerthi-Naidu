@@ -1,6 +1,6 @@
 # Ravilla Keerthi Naidu - Professional Portfolio
 
-🔗 **GitHub Pages URL:** [https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/](hhttps://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/)
+🔗 **GitHub Pages URL:** [https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/](https://ravillakeerthinaidu.github.io/Ravilla-Keerthi-Naidu/)
 
 ---
 
